@@ -14,3 +14,11 @@ Week 2
 Week3
 - We discussed about the problems in software distribution and maintainance.
 - We learned that the problem with software developements are mainly related to maintainance and providing support for the development.
+
+week4
+-we discussed about the life cycle of software engineering and its different stages.It is different from human's lifecycle as we dont have control over design and stages of human lifecycle.
+-we discussed about different models of lifecycle of software-engineering,tradiditional and agile.
+        - Traditional one the waterfall model :- It is a linear sequential (non iterative) design process,no flexibility. 
+        - Agile:-It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.
+    but almost all model follow indirectly waterfall model.
+-we discussed about requirement engineering and its complexity and importance.
